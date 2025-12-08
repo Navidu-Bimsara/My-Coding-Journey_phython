@@ -1,16 +1,18 @@
-# 🇺🇸 U.S. States Guessing Game
+# 🐍 My Python Coding Journey
 
-An interactive geography game built with Python to master data handling and GUI interaction.
+A collection of interactive apps, games, and automation scripts built to strengthen my core programming concepts.
 
-## 🎮 How it Works
-The program loads a map interface where users guess U.S. state names. It validates inputs against a dataset and dynamically places the text on the correct map coordinates.
+## 📂 Project Directory
 
-## ⚙️ Key Features
-* **Data Analysis:** Uses `pandas` to read and query CSV data.
-* **Interactive GUI:** Built with the `turtle` graphics library for image rendering and text placement.
-* **Smart Exit:** When the user types "Exit", the program uses **List Comprehension** to compare the full list vs. guessed list and exports a `states_to_learn.csv` file for study.
+### 1. 🇺🇸 U.S. States Guessing Game
+* **Path:** `/day-25-us-states-game`
+* **Description:** An interactive geography game that validates user guesses against a CSV dataset.
+* **Key Skills:** Pandas, CSV Parsing, List Comprehension.
 
-## 🛠️ Tech Stack
-* Python 3.9+
-* Pandas Library
-* Turtle Module
+### 2. 🔄 Miles to Km Converter
+* **Path:** `/Mile_to_km_converter`
+* **Description:** A desktop GUI application for real-time unit conversion.
+* **Key Skills:** Tkinter (GUI), Grid Layout, Event Driven Programming.
+
+---
+*This repository is updated regularly as I progress through my coding roadmap.*
