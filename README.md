@@ -14,5 +14,10 @@ A collection of interactive apps, games, and automation scripts built to strengt
 * **Description:** A desktop GUI application for real-time unit conversion.
 * **Key Skills:** Tkinter (GUI), Grid Layout, Event Driven Programming.
 
+### 3. 🍅 Pomodoro GUI Application
+* **Path:** `/Pomodoro_GUI_App`
+* **Description:** A productivity timer implementing the Pomodoro Technique (25min work / 5min break) with dynamic UI updates.
+* **Key Skills:** `window.after()` (Non-blocking loops), Canvas Widget, State Management.
+
 ---
 *This repository is updated regularly as I progress through my coding roadmap.*
