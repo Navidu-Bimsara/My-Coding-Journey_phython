@@ -19,5 +19,10 @@ A collection of interactive apps, games, and automation scripts built to strengt
 * **Description:** A productivity timer implementing the Pomodoro Technique (25min work / 5min break) with dynamic UI updates.
 * **Key Skills:** `window.after()` (Non-blocking loops), Canvas Widget, State Management.
 
+### 4. 📈 Stock Trading News Alert
+* **Path:** `/stock-news`
+* **Description:** An automated alert system that monitors stock prices (e.g., TSLA). If significant volatility is detected, it fetches relevant news headlines via API and sends an SMS briefing to the user.
+* **Key Skills:** REST APIs (Alpha Vantage, NewsAPI), JSON Parsing, Twilio SMS Integration, Environment Variables.
+
 ---
 *This repository is updated regularly as I progress through my coding roadmap.*
